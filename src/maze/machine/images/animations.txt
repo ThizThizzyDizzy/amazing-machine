@@ -1,0 +1,27 @@
+  <MAP ANCHOR>
+    Use the 3x3 orange design to mark the point to add an animation.
+     It will be aligned with the animation's anchor point.
+The center of the grid should be a color that matches an anchor in the animation.
+
+There are 4 sides of the design.
+The right, bottom, and left sides can be ignored, the are not used.
+The top cell should be filled with the plot type that should be under the anchor.
+
+  <ANIMATION ANCHOR>
+    Use the 3x3 orange design to mark the anchor point of an animation.
+There are 4 sides of the design.
+    Top
+        The top cell signifies the settings for the animation.
+        The red channel signifies the delay between frames, in twentieths of a second.
+        The green channel signifies the starting frame.
+        The blue channel signifies collision settings.
+            0 = Part of the maze. It modifies the maze with the animation.
+            1-255 = Foreground. This does not affect the maze or the players, but you cannot see behind it. It is aesthetic.
+        The alpha channel signifies weather or not the animation should loop.
+            1 = Do not loop. When it finishes, keep it stopped.
+            2-255 = Loop; 255-alpha channel is how long of a delay between animation end and start (in frames).
+            
+    Left
+        The left cell signifies the color that should be used in place of the latch
+    Right - Unused
+    Bottom - Unused

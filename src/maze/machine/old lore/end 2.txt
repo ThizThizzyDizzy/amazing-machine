@@ -1,0 +1,2 @@
+You walk into the elevator and push (10)
+the elevator starts going up.

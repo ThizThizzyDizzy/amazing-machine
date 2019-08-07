@@ -1,0 +1,6 @@
+<r>Turn back. wait for the maze to be finished.
+<lg>BOOM!
+<r>What was that?
+<lg>CRASH!
+<r>What's going on?
+<r>No, get him!

@@ -1,0 +1,11 @@
+The elevator stalls on the second floor, the doors grinding open. One of them fails half-open.
+The ground shakes.
+You quickly get out of the elevator, before seeing it fall back down the elevator shaft.
+
+"WHAT THE--"
+There are Giant holes everywhere.
+The ground shakes again.
+You see an explosion blow another hole in the wall.
+The facility is under attack!
+You hear "Evacuate! get to the third floor imedi-" You hear an explosion as the sound cuts off.
+[info] The darker gray is holes blown in the wall.

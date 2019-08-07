@@ -1,0 +1,8 @@
+<r>it's not done! There was a water pit blocking the path
+<sm>You didn't give us much time to finish the maze. We left some building materials in there.
+<r><lg>I needed that maze done! Now I need another!
+<sm>Sir, 
+<r><lg>Make another one!
+<sm>Yes sir...
+<r>Congradulations on finishing the difficult maze! please wait a while before continuing.
+<r><sm>you need to build these things faster...
