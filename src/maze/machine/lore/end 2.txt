@@ -1,0 +1,6 @@
+<r><sm>What do you mean the alarm is going off? It can't have finished yet.
+<sm>It's done already, sir!
+<r>I made that maze myself! It would have taken days to solve!
+<sm>But sir...
+<r>Get out of my sight!
+<sm>Yes sir...

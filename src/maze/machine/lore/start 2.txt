@@ -1,0 +1,6 @@
+<r>Good morning, Test Subject #[RAND{0~9}][RAND{0~9}][RAND{0~9}][RAND{0~9}][RAND{0~9}][RAND{0~9}][RAND{0~9}][RAND{0~9}][RAND{0~9}][RAND{0~9}]. Welcome!
+<sm>It's not doing anything. Can it even hear us?
+<sm>Try turning up the volume...
+<r><lg>Good morning, Te-
+<lg>TURN THAT THING DOWN!!!
+<r>*clears throat* Good morning, test subject. There is a very difficult maze right in front of you. You need to get to the end of it. get going.

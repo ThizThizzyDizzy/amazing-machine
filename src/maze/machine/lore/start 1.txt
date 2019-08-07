@@ -1,0 +1,21 @@
+<This is the Tutorial, there is no Lore here>
+<<TRAPS>>
+<Water Pit>
+The blue blocks are water pits. You need wood to bridge over them.
+<Door>
+The golden/dark yellow blocks are locked doors. You need a key to open them.
+<<Items>>
+<Wood>
+The brown blocks are wood.
+<Key>
+The yellow blocks are keys.
+<<Exit>>
+The dark green block(s) are the exits. Go to them to go to the next level.
+<<Guard>>
+The bright red blocks are guards. If they touch you, you will lose.
+<<Path>>
+The light gray blocks are paths. Self-explanatory.
+<<Wall>>
+The medium gray blocks are walls. Also self-explanatory.
+<<Pit>>
+The dark gray blocks are pitfall traps. Currently, you can not fall into them, but you can see them

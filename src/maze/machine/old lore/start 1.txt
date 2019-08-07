@@ -1,0 +1,4 @@
+You walk into a training area.
+"Welcome to the training maze! This is a very small maze with everything you may encounter! Please await your instructions."
+Time passes...
+No instructions come, so you decide to start the maze.

@@ -1,0 +1,4 @@
+<sm>we're not done yet!
+<r>Stop. This maze is dangerous Do not continue.
+<r>Turn back now. This maze is dangerous.
+<r><lg>Guards!
