@@ -1,8 +1,5 @@
-
 package maze.machine;
-
 import maze.machine.entity.PlayerLocal;
-
 public enum PlotType{
     WALL           (0xFF404040L, "Wall", false, false),
     WALLSEEALL     (0xFF008080L, "Wall (See Everything)", false, false),

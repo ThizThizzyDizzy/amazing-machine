@@ -4,7 +4,6 @@ import maze.machine.entity.PlayerEnemy;
 import maze.machine.entity.PlayerFollowingEnemy;
 import maze.machine.entity.Player;
 import maze.machine.menu.MenuLore;
-import maze.machine.menu.MenuCampaignEnd;
 import maze.machine.menu.MenuMain;
 import maze.machine.menu.MenuMaze;
 import java.awt.image.BufferedImage;

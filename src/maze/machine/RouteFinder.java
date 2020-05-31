@@ -1,7 +1,6 @@
 package maze.machine;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 public class RouteFinder {
     public static ArrayList<int[]> findRoute(Plot[][] grid, int[] start, int[] end, boolean isFriendly){
         GridPos begin = new GridPos(grid, start);

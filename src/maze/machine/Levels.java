@@ -1,9 +1,5 @@
 package maze.machine;
 import java.io.File;
-/**
- * Returns filepaths of level images or lore.
- * @author James
- */
 public class Levels{
     public static String getLorePath(String lore){
         String path = "/maze/machine/lore/"+lore;

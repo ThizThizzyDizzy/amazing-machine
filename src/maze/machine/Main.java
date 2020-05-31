@@ -77,10 +77,10 @@ public class Main{
         Core.main(args);
     }
     public static String getAppdataRoot(){
-        return System.getenv("APPDATA")+"\\Thizzygaming Industries\\"+applicationName;
+        return System.getenv("APPDATA")+"\\Thizzy'z Games\\"+applicationName;
     }
     private static String getLibraryRoot(){
-        return System.getenv("APPDATA")+"\\Thizzygaming Industries\\Libraries";
+        return System.getenv("APPDATA")+"\\Thizzy'z Games\\Libraries";
     }
     private static String[] update(String[] args) throws URISyntaxException, IOException, InterruptedException{
         ArrayList<String> theargs = new ArrayList<>(Arrays.asList(args));
